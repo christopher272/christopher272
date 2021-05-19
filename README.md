@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @christopher272
+- 👀 I’m interested in the automotive and aviation worlds
+- 🌱 I’m currently learning about CSS, HTML, and JS
+- 📫 The best way to reach me is via email @cbarr272@gmail.com, or through LinkedIn
